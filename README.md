@@ -1,2 +1,2 @@
 # wanderlust
-It's an Andorid Application on the " Tours And Travel" 
+It's an Android Application on the " Tours And Travel" 
